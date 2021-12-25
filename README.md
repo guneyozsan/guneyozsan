@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Extending the UnityPlayerActivity on Android](https://guneyozsan.github.io/extending-the-unity-player-activity-on-android/)
 <!-- BLOG-POST-LIST:END -->
