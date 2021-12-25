@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Extending the UnityPlayerActivity on Android](https://guneyozsan.github.io/extending-the-unity-player-activity-on-android/)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+[![Guney's GitHub stats](https://github-readme-stats.vercel.app/api?username=guneyozsan&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
